@@ -7,7 +7,6 @@ import completed from '../../assets/images/CheckCircle.png'
 import Dropdown from '../modals/Dropdown'
 import AddModal from '../modals/AddModal'
 import DelConfirm from '../modals/DelConfirm'
-import EditModal from '../modals/EditModal'
 
 const Kanban = (props) => {
     const [data, setData] = useState(mockData)
