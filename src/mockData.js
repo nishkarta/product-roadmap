@@ -9,12 +9,12 @@ const mockData = [
             {
                 id: uuidv4(),
                 name: 'Re-designed the zero-g doggie bags. No more spills!',
-                "progress_percentage": 100,
+                progress_percentage: 100,
             },
             {
                 id: uuidv4(),
                 name: 'Bundle interplanetary analytics for improved transmission',
-                "progress_percentage": 80,
+                progress_percentage: 80,
             },
 
         ]
@@ -33,7 +33,7 @@ const mockData = [
             {
                 id: uuidv4(),
                 name: 'Bundle interplanetary analytics for improved transmission',
-                "progress_percentage": 60,
+                progress_percentage: 60,
             },
         ]
     },
@@ -45,7 +45,7 @@ const mockData = [
             {
                 id: uuidv4(),
                 name: 'Bundle interplanetary analytics for improved transmission',
-                "progress_percentage": 60,
+                progress_percentage: 60,
             },
         ]
     }
